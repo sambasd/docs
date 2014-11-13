@@ -1,7 +1,7 @@
 :orphan:
 
 ============================
-The MongoDB |version| Manual
+The MongoDB |version| Manual samba
 ============================
 
 .. default-domain:: mongodb
